@@ -2,4 +2,5 @@
     <string name="app_name">Plastic</string>
     <string name="chatroom">chatRoom</string>
     <string name="returnTo">return</string>
+    <string name="sendText">send</string>
 </resources>

@@ -4,6 +4,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
+import android.widget.BaseAdapter;
 import android.widget.Button;
 
 /**
@@ -24,4 +25,8 @@ public class activity_chatRoom extends AppCompatActivity {
             }
         });
     }
+}
+
+public  class chatRoomAdapter extends BaseAdapter {
+
 }
